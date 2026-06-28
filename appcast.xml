@@ -4,11 +4,11 @@
         <title>Watchroom</title>
         <item>
             <title>0.2.0</title>
-            <pubDate>Sun, 28 Jun 2026 11:58:06 -0400</pubDate>
+            <pubDate>Sun, 28 Jun 2026 12:11:44 -0400</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oakif/watchroom-releases/releases/download/v0.2.0/Watchroom-0.2.0.dmg" length="37623255" type="application/octet-stream" sparkle:edSignature="xq9fka18FBy/zG7jgwMcAr0+DlGu5tjIPGLCvZCB9wofFqCVzOMC/TvgzRVn7oHuxKNr1GVHQ+jdDEcitUGLAw=="/>
+            <enclosure url="https://github.com/oakif/watchroom-releases/releases/download/v0.2.0/Watchroom-0.2.0.dmg" length="37623081" type="application/octet-stream" sparkle:edSignature="fczb9YA50AWkVQoa79E4xpNhCEAK+LW8Fq5c+FTWH+3B50yeSh06kvL1UmBWdLRU+9vTLFbuhy7Y7GwfoZOnDA=="/>
         </item>
     </channel>
 </rss>
