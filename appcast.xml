@@ -3,12 +3,12 @@
     <channel>
         <title>Watchroom</title>
         <item>
-            <title>0.3.0</title>
-            <pubDate>Sat, 25 Jul 2026 00:22:03 -0400</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <title>0.3.1</title>
+            <pubDate>Sat, 25 Jul 2026 01:24:42 -0400</pubDate>
+            <sparkle:version>207</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oakif/watchroom-releases/releases/download/v0.3.0/Watchroom-0.3.0.dmg" length="38117883" type="application/octet-stream" sparkle:edSignature="zMk6uVJMCjdDKL4Fwx63bj3zDeSGFAKmjxf1h8uuJMilkDYSqRefPKDSNjzUgOmQWp3ybZKqTup3+lgB8IZDAQ=="/>
+            <enclosure url="https://github.com/oakif/watchroom-releases/releases/download/v0.3.1/Watchroom-0.3.1.dmg" length="38123247" type="application/octet-stream" sparkle:edSignature="Hu0RZ9tfsf+WF9cYJd502WXfgEaJKfX7Nhw4gO1KYj6mlytCqm/5vSOnHqLuyEZVd+V7Vf2ucubKU3HDa7fxCw=="/>
         </item>
     </channel>
 </rss>
